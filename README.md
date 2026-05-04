@@ -13,7 +13,7 @@ This repository showcases my complete journey through the Apex Planet Internship
 - Handled missing values and inconsistencies
 - Prepared data for analysis
 
-🔗 [View Project]((https://github.com/Purandareswar/superstore-data-cleaning.git))
+🔗 [View Project](https://github.com/Purandareswar/superstore-data-cleaning.git)
 
 ---
 
@@ -31,7 +31,7 @@ This repository showcases my complete journey through the Apex Planet Internship
 - Analyzed sales by region, category, and time
 - Created visual insights
 
-🔗 [View Project]((https://github.com/Purandareswar/PowerBI-Sales-Dashboard.git))
+🔗 [View Project](https://github.com/Purandareswar/PowerBI-Sales-Dashboard.git)
 
 ---
 
@@ -40,7 +40,7 @@ This repository showcases my complete journey through the Apex Planet Internship
 - Applied T-Test for validation
 - Created presentation for stakeholders
 
-🔗 [View Project]([PASTE_LINK_HERE](https://github.com/Purandareswar/Task-4-Data-Storytelling.git))
+🔗 [View Project](https://github.com/Purandareswar/Task-4-Data-Storytelling.git)
 
 ---
 
